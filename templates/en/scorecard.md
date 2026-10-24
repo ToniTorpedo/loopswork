@@ -1,0 +1,15 @@
+FEATURE SCORECARD [ID] · Version [x] · Updated [date]
+Feature / Spec / Release: [links and versions]
+Product decision within the mandate: [PO] · Higher-level decision / requester: [person or body] · Data quality: [Measurement Partner]
+Problem / target group: [what should improve, and for whom?]
+Hypothesis: If [change], then [impact], because [assumption].
+Primary metric: [definition including numerator, denominator, exclusions]
+Baseline / source / period: [value or missing + clarification plan]
+Target and decision rule: [agree in advance]
+Guardrail metrics: [limits for errors, speed, complaints; relevant error rate, latency, availability or SLO breaches only where they affect users, business impact or reliability]
+Measurement plan: [events, comparison, groups, data volume, period]
+Result / user feedback: [values, evidence, data quality]
+Uncertainty / alternative explanations: [state openly]
+Decision + reason: [retain/change/expand/investigate/roll back]
+Next action / owner / review date: [specific]
+Value Review: regularly every 4 weeks; address urgent findings immediately.

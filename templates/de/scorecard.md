@@ -1,0 +1,15 @@
+FEATURE SCORECARD [ID] · Version [x] · Stand [Datum]
+Feature / Spec / Release: [Links und Versionen]
+Produktentscheidung im Mandat: [PO] · Übergeordnete Entscheidung / Auftraggeber: [Person oder Gremium] · Datenqualität: [Measurement Partner]
+Problem / Zielgruppe: [für wen soll was besser werden?]
+Hypothese: Wenn [Änderung], dann [Wirkung], weil [Annahme].
+Primäre Kennzahl: [Definition inkl. Zähler, Nenner, Ausschlüsse]
+Ausgangswert / Quelle / Zeitraum: [Wert oder fehlt + Klärungsplan]
+Ziel und Entscheidungsregel: [vorab vereinbaren]
+Schutzkennzahlen: [Grenzen für Fehler, Geschwindigkeit, Beschwerden; relevante Fehlerrate, Latenz, Verfügbarkeit oder SLO-Verletzungen nur mit Einfluss auf Nutzer, Business-Wirkung oder Zuverlässigkeit]
+Messplan: [Ereignisse, Vergleich, Gruppen, Datenmenge, Zeitraum]
+Ergebnis / Nutzerfeedback: [Werte, Belege, Datenqualität]
+Unsicherheit / alternative Erklärungen: [offen benennen]
+Entscheidung + Grund: [beibehalten/ändern/ausweiten/untersuchen/zurücknehmen]
+Nächste Aktion / Owner / Prüftermin: [konkret]
+Value Review: regelmäßig alle 4 Wochen; dringende Befunde sofort behandeln.
