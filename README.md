@@ -11,17 +11,21 @@ LoopsWork verbindet drei Loops: **Build** setzt kleine, prüfbare Änderungen um
 ### Einstieg
 
 1. Wähle [Deutsch](templates/de/) oder [Englisch](templates/en/).
-2. Starte mit [Spec](templates/de/spec.md), [PR-Vorlage](templates/de/pr.md) oder [Scorecard](templates/de/scorecard.md).
+2. Starte mit [Spec](templates/de/spec.md), [PR-Vorlage](templates/de/pr.md) oder [Scorecard](templates/de/scorecard.md). Für dauerhaften Agenten-Kontext nutze die [AGENTS.md-Startervorlage](templates/de/agents.md).
 3. Ersetze Platzhalter und kläre Owner, Grenzen, Prüffälle und Entscheidungsrechte.
 4. Nutze passende Agenten- oder Meeting-Prompts. Die Prompts führen selbst kein KI-Modell aus.
 
 Zusätzlich enthalten: CART-1.0-Spec, operative Arbeitskarte, Lernexperiment sowie Prompts für sechs Agentenprofile und sechs Arbeitsformate.
+
+[AGENTS.md](AGENTS.md) enthält die projektspezifischen Regeln für dieses Text-Repository. Die allgemeine Startervorlage ist für eigene Projekte gedacht: Platzhalter ersetzen und als `AGENTS.md` im jeweiligen Repository-Hauptverzeichnis speichern. [Einordnung im Build Loop](https://loopswork.dev/loops/#agent-instructions): aktuelle Leitplanken vor der Umsetzung prüfen (Definition of Ready), betroffene `.md`-Dateien mit der Änderung pflegen und prüfen (Definition of Done). Erkenntnisse aus Learning können die Regeln nach menschlicher Entscheidung verbessern.
 
 ## English
 
 LoopsWork connects three loops: **Build** delivers small, testable changes, **Value** checks their impact, and **Learning** improves the way of working and its foundations. Decisions and accountability stay with people. LoopsWork is a framework draft; CART 1.0 is illustrative.
 
 Choose [German](templates/de/) or [English](templates/en/). Start with a [spec](templates/en/spec.md), [PR template](templates/en/pr.md), or [scorecard](templates/en/scorecard.md). Replace placeholders and define a human owner, boundaries, checks, and decision rights. Adapt prompts to your context; they do not execute an AI model themselves.
+
+[AGENTS.md](AGENTS.md) contains rules specific to this text repository. Use the separate [AGENTS.md starter](templates/en/agents.md) for your own project: replace placeholders and save it as `AGENTS.md` in that repository's root. [Build Loop guidance](https://loopswork.dev/en/loops/#agent-instructions): check current guardrails before implementation (Definition of Ready), then update and review affected `.md` files with the change (Definition of Done). Learning evidence may improve the rules after a human decision.
 
 ## Feedback & contributions / Mitwirkung
 
